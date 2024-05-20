@@ -1,5 +1,7 @@
+[url=https://bluehaired8.carrd.com][img]https://raw.githubusercontent.com/2013Windows81/2013Windows81/main/standard.gif[/img][/url]
+
 # 💫 About Me:
-👋 Hi, I’m @2013Windows81<br>👀 I’m interested in Windows Stuffs And Customizations<br>🌱 I’m currently learning Customizations<br>Social media: IG,YT,> 2013Windows8.1 TW > Win8B8642
+👋 Hi, I’m 2013Windows8.1!<br>I'm A content Creator At Youtube. Mostly Focused on Tech and Customizations.<br>👀 I’m interested in Windows Stuffs And Customizations<br>🌱 I’m currently learning Customizations<br>Social media: IG,YT,> 2013Windows8.1 TW > Win8B8642
 
 
 ## 🌐 Socials:
@@ -16,13 +18,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=2013Windows81&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=2013Windows81&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 2013Windows81/2013Windows81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
