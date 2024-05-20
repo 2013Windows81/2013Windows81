@@ -1,7 +1,11 @@
-[url=https://bluehaired8.carrd.com][img]https://raw.githubusercontent.com/2013Windows81/2013Windows81/main/standard.gif[/img][/url]
+
+<img src="https://raw.githubusercontent.com/2013Windows81/2013Windows81/main/standard.gif"/>
+
+# Hi, I’m 2013Windows8.1!
+
 
 # 💫 About Me:
-👋 Hi, I’m 2013Windows8.1!<br>I'm A content Creator At Youtube. Mostly Focused on Tech and Customizations.<br>👀 I’m interested in Windows Stuffs And Customizations<br>🌱 I’m currently learning Customizations<br>Social media: IG,YT,> 2013Windows8.1 TW > Win8B8642
+<br>👋  I'm A content Creator At Youtube. Mostly Focused on Tech and Customizations.<br>👀 I’m interested in Windows Stuffs And Customizations<br>🌱 I’m currently learning Customizations<br>Social media: IG,YT,> 2013Windows8.1 TW > Win8B8642
 
 
 ## 🌐 Socials:
